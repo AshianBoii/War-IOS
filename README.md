@@ -1,4 +1,4 @@
-Screenshots on the simulator
+Screenshots from xcode of iphone 17 on the simulator
 
 
 
